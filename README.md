@@ -9,3 +9,7 @@ Deep Learning Techniques for Breast Cancer Risk Prediction using Python
 
 ![img1](https://github.com/SmartPracticeschool/llSPS-INT-3693-Deep-Learning-Techniques-for-Breast-Cancer-Risk-Prediction-using-Python/blob/master/one_img.JPG)
 
+* And the dataset directory should look like this.
+
+![img2](https://github.com/SmartPracticeschool/llSPS-INT-3693-Deep-Learning-Techniques-for-Breast-Cancer-Risk-Prediction-using-Python/blob/master/sec_img.JPG)
+
